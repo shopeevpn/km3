@@ -18,6 +18,9 @@ KM9 X2 LP4 V2.2
 
 <img src="https://github.com/shopeevpn/km3/blob/main/MECOOL%20KM3/img/shortpin.jpg">
 
+# ERROR During flash [0x30403003]UBOOT/Partition system/Download buffer/Data tranfer error 
+Please cange your usb port or using laptop. I stuck on this error for a weeks on my PC. Then i flash using laptop its work
+
 # DONE FLASH Firmware STOCK KM3 PI-V1.20190320 ON KM9 X2 LP4 V2.2
 <img src="https://github.com/shopeevpn/km3/blob/main/MECOOL%20KM3/img/doneflash.jpg">
 
