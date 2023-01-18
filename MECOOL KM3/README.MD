@@ -14,3 +14,6 @@ https://github.com/shopeevpn/km3/releases/tag/v1.0
 
 <img src="https://github.com/shopeevpn/km3/blob/main/MECOOL%20KM3/img/shortpin.jpg">
 
+# Firmware STOCK KM3 PI-V1.20190320
+<img src="https://github.com/shopeevpn/km3/blob/main/MECOOL%20KM3/img/KM3_LPDDR4X_STOCK-KM3-PI-V1.20190320.jpg">
+
